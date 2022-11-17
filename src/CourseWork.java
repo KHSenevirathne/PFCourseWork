@@ -27,7 +27,7 @@ class CourseWork{
         // index is a common int variable using in [1] , [2]. Its helps add IDs in right place into array.
         int index=0;
 
-        System.out.print("\t+-+-+-+-+-+-+-+-+-+-+-+\n\t|   WELCOME TO ALL    |\n\t+-+-+-+-+-+-+-+-+-+-+-+\n\n* Coded by KAVEESH HEMAKA SENEVIRATHNE\n* khsenevirathne@gmail.com - E-MAIL\n* 076 53 500 39 - WHATSAPP\n* for COURSE WORK REDOING\n* 11/18/2022 6.00PM\n\n\n\n>Press any key to continue . . .");
+        System.out.print("\t+-+-+-+-+-+-+-+-+-+-+-+\n\t|   WELCOME TO ALL    |\n\t+-+-+-+-+-+-+-+-+-+-+-+\n\n* Coded by KAVEESH HEMAKA SENEVIRATHNE\n* khsenevirathne@gmail.com - E-MAIL\n* 076 53 500 39 - WHATSAPP\n* for COURSE WORK REDOING\n* 11/18/2022 2.00AM\n\n\n\n>Press any key to continue . . .");
         String start = new Scanner (System.in).nextLine();//to start user calling
         clearConsole();
 
